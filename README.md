@@ -1,4 +1,4 @@
-## Hey, I'm Rahul ., Ethical hacker , Bug bounty hunter, pentration tester 👋
+## Hey, I'm Rahul Tandale, Ethical hacker , Bug bounty hunter, pentration tester 👋
 
 <p align='center'>
 <a href="https://x.com/0x_guardian_eth"><img height="30" src="./x.jpg"></a> 
